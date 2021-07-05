@@ -1,4 +1,4 @@
-### Hi I'm Kingson 👋
+### Hi, I'm Kingson 👋
 
 <!--
 **Kingson-Zhang/Kingson-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
