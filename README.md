@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
