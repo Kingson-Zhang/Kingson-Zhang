@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Tools
 
 [![](https://img.shields.io/badge/-POSTMAN-1D272B?style=flat-square&logo=POSTMAN&logoColor=FB6A3F)](https://www.postman.com/)
+[![](https://img.shields.io/badge/-JETBRAINS-27282C?style=flat-square&logo=jetbrains&logoColor=080809)](https://www.jetbrains.com/)
 
 ### Skills
 
