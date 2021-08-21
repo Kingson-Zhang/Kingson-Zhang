@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 > 🏆 43 Contributions in the Year 2021
  > 
-> 📦 186.1 kB Used in Github's Storage 
+> 📦 186.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,5 +100,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
