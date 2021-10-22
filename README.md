@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 43 Contributions in the Year 2021
  > 
-> 📦 186.2 kB Used in Github's Storage 
+> 📦 186.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,5 +100,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
