@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 43 Contributions in the Year 2021
  > 
 > 📦 186.4 kB Used in GitHub's Storage 
  > 
@@ -100,5 +100,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
