@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 186.5 kB Used in GitHub's Storage 
  > 
@@ -102,5 +100,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
