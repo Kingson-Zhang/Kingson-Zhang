@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 0 contributions in 2022
@@ -101,5 +101,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:56:29 UTC
+ Last Updated on 12/06/2022 07:58:16 UTC
 <!--END_SECTION:waka-->
