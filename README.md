@@ -38,19 +38,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 0 Contributions in the Year 2022
+```text
+🏆 0 contributions in 2022
+
+📦 191.2 kB used in GitHub's storage 
+
+📜 9 Public Repositories 
+
+🔑 12 Private Repositories  
  > 
-> 📦 191.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 12 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.9% 
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm most productive on Tuesday** 
 
 ```text
 Monday       67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.61% 
@@ -73,7 +72,7 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -92,7 +91,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in PHP** 
+**💻 I mostly code in PHP** 
 
 ```text
 PHP                      13 repos            ███████████████████░░░░░░   76.47% 
@@ -102,5 +101,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:36:38 UTC
+ Last Updated on 12/06/2022 07:38:10 UTC
 <!--END_SECTION:waka-->
