@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time--blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 198.2 kB Used in GitHub's Storage 
+> 📦 198.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,5 +102,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 03/09/2022 22:45:29 UTC
+ Last Updated on 03/09/2022 22:47:19 UTC
 <!--END_SECTION:waka-->
