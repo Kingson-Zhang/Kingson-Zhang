@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 199.7 kB Used in GitHub's Storage 
  > 
@@ -102,5 +102,5 @@ JavaScript               4 repos             ██████░░░░░�
 
 
 
- Last Updated on 21/09/2022 19:26:03 UTC
+ Last Updated on 21/09/2022 19:27:44 UTC
 <!--END_SECTION:waka-->
