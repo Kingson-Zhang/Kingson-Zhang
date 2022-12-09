@@ -95,13 +95,13 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      20 repos            ███████████████████░░░░░░   76.92% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+PHP                      20 repos            ██████████████████░░░░░░░   74.07% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 09/12/2022 02:04:52 UTC
+ Last Updated on 09/12/2022 02:06:59 UTC
 <!--END_SECTION:waka-->
