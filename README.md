@@ -50,48 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 37 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    157 commits    ███████░░░░░░░░░░░░░░░░░░   27.54% 
-🌆 Daytime    267 commits    ███████████░░░░░░░░░░░░░░   46.84% 
-🌃 Evening    146 commits    ██████░░░░░░░░░░░░░░░░░░░   25.61% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
-Tuesday      119 commits    █████░░░░░░░░░░░░░░░░░░░░   20.88% 
-Wednesday    118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.7% 
-Thursday     116 commits    █████░░░░░░░░░░░░░░░░░░░░   20.35% 
-Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Saturday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -103,5 +61,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 17:44:38 UTC
+ Last Updated on 29/12/2022 17:47:26 UTC
 <!--END_SECTION:waka-->
