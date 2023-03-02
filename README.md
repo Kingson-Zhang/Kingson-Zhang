@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
+From: 04 July 2021 - To: 01 March 2023
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
