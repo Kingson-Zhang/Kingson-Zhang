@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](http://www.ecmascript.org/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 [![](https://img.shields.io/badge/-Python-2C5376?style=flat-square&logo=python&logoColor=FFFFFF)](https://www.python.org/)
-[![](https://img.shields.io/badge/-TypeScript-3B78C4?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
