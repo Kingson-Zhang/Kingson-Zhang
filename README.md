@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
