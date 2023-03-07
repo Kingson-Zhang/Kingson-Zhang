@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GitIgnore file   2 mins          ██████████████▓░░░░░░░░░░   58.05 %
+PHP              1 min           ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+EditorConfig     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
