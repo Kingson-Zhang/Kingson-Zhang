@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   2 mins          ██████████████▓░░░░░░░░░░   58.05 %
-PHP              1 min           ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-EditorConfig     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+PHP              1 hr 28 mins    ████████████████▒░░░░░░░░   64.90 %
+Docker           31 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+JSON             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+.env file        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Bash             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
