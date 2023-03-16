@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              0 secs          ████████████████████████▒   97.75 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+PHP              12 mins         █████████████████████████   99.94 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
