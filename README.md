@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              33 hrs 32 mins  ██████████████████████▓░░   90.22 %
-JavaScript       3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JSON             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+PHP              32 hrs 52 mins  ██████████████████████▒░░   89.38 %
+JavaScript       3 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+JSON             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
