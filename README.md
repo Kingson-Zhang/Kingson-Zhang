@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          7 hrs 13 mins   ████████████████████▒░░░░   80.72 %
-JavaScript   1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP          33 mins         ██████████████████████░░░   88.15 %
+Text         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
